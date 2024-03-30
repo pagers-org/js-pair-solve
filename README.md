@@ -1,1 +1,1 @@
-# js-pair-solve
+ADT: abstract data type

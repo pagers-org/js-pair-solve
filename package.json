@@ -2,6 +2,7 @@
   "name": "js-pair-solve",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "commonjs",
   "packageManager": "yarn@4.1.1",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,9 +19,10 @@
   },
   "homepage": "https://github.com/FECrash/js-pair-solve#readme",
   "devDependencies": {
-    "@babel/eslint-parser": "^7.24.1",
     "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "2.29.0",
     "eslint-plugin-prettier": "^5.1.3",
     "prettier": "^3.2.5"
   }
